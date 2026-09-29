@@ -203,9 +203,6 @@ a1b2c3d  feat: next project loading...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant560&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant560&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&hide_border=false&langs_count=6" height="170"/>
 
 <br/><br/>
 
@@ -228,14 +225,7 @@ a1b2c3d  feat: next project loading...
 
 ---
 
-## `> python3 snake.py --contributions`
 
-<!-- Requires the Snake GitHub Action — see setup notes. Delete this block if you skip it. -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Vedant560/Vedant560/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
-
----
 
 ## `> curl connect.vedant.dev`
 
